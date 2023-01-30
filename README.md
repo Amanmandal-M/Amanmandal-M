@@ -1,4 +1,4 @@
-<img src="https://i.pinimg.com/originals/1c/69/ba/1c69bafb832df773a6c86384a251a195.gif" alt="javascript" width="100%" height="450px" />
+<img src="https://i.pinimg.com/originals/1c/69/ba/1c69bafb832df773a6c86384a251a195.gif" alt="javascript" width="100%" height="480px" />
       <img align="left" src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="100%" height="10px"
     alt="Git" />
       
@@ -91,7 +91,7 @@ product-based company.
       <a href="https://Amanmandal-M.github.io" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-18A303?style=for-the-badge&logo=ionic&logoColor=white" align="center" alt="Portfolio"> </a>
       
-      <a title="Aman Kumar " href="mailto:amanmandal644@gmail.com" target="_blank">
+      <a title="Aman Kumar " href="amanmandal644@gmail.com" target="_blank">
      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" align="center" alt="html5"> </a>
      
      </div>
