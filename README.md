@@ -69,7 +69,7 @@ product-based company.
       
    - 🌱 I’m currently learning at Masai
       
-      - 📄 Check out my <a href="https://drive.google.com/file/d/1MM8b2h41K5EfwhwxKLIwcuSVjgtZlDWc/view?usp=share_link" target="_blank" >Resume</a>
+      - 📄 Check out my <a href="https://drive.google.com/file/d/1lyYfuQk3gqFDxPVYotKnOvk06lADgI8h/view?usp=share_link" target="_blank" >Resume</a>
       
       - 💻 Know more about me <a href="https://amanmandal-m.github.io/" target="_blank"  >Portfolio</a>
       
