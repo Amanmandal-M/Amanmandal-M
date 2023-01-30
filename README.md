@@ -3,9 +3,9 @@
       <img align="left" src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="100%" height="10px"
     alt="Git" />
       
-   <h1 align="center"><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35">Hi, I'm Uttam Kumar Shaw <img src="https://camo.githubusercontent.com/d3359cb00ab0b5ed8f2e1fe3fceb4fbaf3b614340f8c0db99c17b9f50b351770/68747470733a2f2f656d6f6a69732e736c61636b6d6f6a69732e636f6d2f656d6f6a69732f696d616765732f313533313834393433302f343234362f626c6f622d73756e676c61737365732e6769663f31353331383439343330" width="32"/></h1>
+   <h1 align="center"><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35">Hello, I'm Aman Kumar <img src="https://camo.githubusercontent.com/d3359cb00ab0b5ed8f2e1fe3fceb4fbaf3b614340f8c0db99c17b9f50b351770/68747470733a2f2f656d6f6a69732e736c61636b6d6f6a69732e636f6d2f656d6f6a69732f696d616765732f313533313834393433302f343234362f626c6f622d73756e676c61737365732e6769663f31353331383439343330" width="32"/></h1>
       
-   <p align="center"> <img src="https://komarev.com/ghpvc/?username=uttamkrshaw&label=Profile%20views&color=9130c2&style=flat" alt="Uttam Kr Shaw" /> </p>
+   <p align="center"> <img src="https://komarev.com/ghpvc/?username=Amanmandal-M&label=Profile%20views&color=9130c2&style=flat" alt="Error" /> </p>
       
    <h3 align="center">An analytical and detail-oriented aspiring
 Full Stack Web Developer. Capable of
@@ -19,7 +19,7 @@ product-based company.
       
    <p align="center" color:"red">
      <a href="https://github.com/DenverCoder1/readme-typing-svg">
-          <img src="https://readme-typing-svg.demolab.com/?lines=hi! My self Uttam Kumar Shaw 🏽; I am a Full-stack%20web%20developer 🏻‍💻; interested in Coding 🏃‍♂️♂️;Curious%20to%20learn%20new%20things !&font=Fira%20Code&center=true&width=440&height=45&color=#37bcf7&vCenter=true&size=22&pause=1000"></a>
+          <img src="https://readme-typing-svg.demolab.com/?lines=Hello! I am Aman Kumar 🏽; I am a Full-Stack%20Web%20Developer 🏻‍💻; interested in Coding 🏃‍♂️♂️;Curious%20to%20learn%20new%20things !&font=Fira%20Code&center=true&width=440&height=45&color=#37bcf7&vCenter=true&size=22&pause=1000"></a>
       </p>
  
  
@@ -29,7 +29,7 @@ product-based company.
   
   <p align="">
 
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=uttamkrshaw&theme=github-dark&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Amanmandal-M&theme=github-dark&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
   <br /><br />
   </p>
       
@@ -37,12 +37,12 @@ product-based company.
 
   
   <p>
-    <a href="https://github.com/uttamkrshaw"><span>
+    <a href="https://github.com/Amanmandal-M"><span>
         <img align="left" 
-          src="https://github-readme-stats.vercel.app/api/top-langs?username=uttamkrshaw&show_icons=true&locale=en&layout=compact&theme=github_dark&hide_border=true"
+          src="https://github-readme-stats.vercel.app/api/top-langs?username=Amanmandal-M&show_icons=true&locale=en&layout=compact&theme=github_dark&hide_border=true"
           alt="ovi" width="45%" />
           <img align="right"
-          src="https://github-readme-stats.vercel.app/api?username=uttamkrshaw&show_icons=true&locale=en&theme=github_dark&hide_border=true"
+          src="https://github-readme-stats.vercel.app/api?username=Amanmandal-M&show_icons=true&locale=en&theme=github_dark&hide_border=true"
           alt="ovi" width="45%"  />
       </span></a>
   </p>
@@ -69,13 +69,13 @@ product-based company.
       
    - 🌱 I’m currently learning at Masai
       
-      - 📄 Check out my <a href="https://drive.google.com/file/d/1_f8LWL7KmCxpgoGNpeX3qJAvY29UU6We/view?usp=share_link" target="_blank" >Resume</a>
+      - 📄 Check out my <a href="https://drive.google.com/file/d/1MM8b2h41K5EfwhwxKLIwcuSVjgtZlDWc/view?usp=share_link" target="_blank" >Resume</a>
       
-      - 💻 Know more about me <a href="https://uttamkrshaw.github.io" target="_blank"  >Portfolio</a>
+      - 💻 Know more about me <a href="https://Amanmandal-M.github.io" target="_blank"  >Portfolio</a>
       
-      - 💬 Ask me about *HTML, CSS, JavaScript, React, Chakra-UI, ExpressJS, MongoDB & DSA*
+      - 💬 Ask me about *HTML, CSS, JavaScript, NodeJs, ExpressJS, MongoDB & DSA*
       
-      - 📫 How to reach me *uttamkr5599@gmail.com*
+      - 📫 How to reach me *amanmandal644@gmail.com*
       
       <img align="left" src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="100%" height="10px"
     alt="Git" />
@@ -86,16 +86,13 @@ product-based company.
       <br />
      <div align="center" >
       
-     <a href="https://www.linkedin.com/in/uttam-kumar-aa183b126/" target="_blank">
+     <a href="https://www.linkedin.com/in/aman-kumar-657080101/" target="_blank">
      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" align="center" alt="LinkedIn"> </a>
       
-      <a href="https://uttamkrshaw.github.io" target="_blank">
+      <a href="https://Amanmandal-M.github.io" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-18A303?style=for-the-badge&logo=ionic&logoColor=white" align="center" alt="Portfolio"> </a>
       
-      <a href="https://twitter.com/uttamkrshaw" target="_blank">
-     <img src="https://img.shields.io/badge/Twitter-0077B5?style=for-the-badge&logo=twitter&logoColor=white" align="center" alt="Twitter"> </a>
-      
-      <a title="Uttam Kumar SHaw " href="mailto:uttamkr5599@gmail.com" target="_blank">
+      <a title="Aman Kumar " href="mailto:amanmandal644@gmail.com" target="_blank">
      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" align="center" alt="html5"> </a>
      
      </div>
@@ -162,9 +159,9 @@ product-based company.
     
   
   <p align="center">
-    <a href="https://github.com/uttamkrshaw"><span>
+    <a href="https://github.com/Amanmandal-M"><span>
         <img align="center"
-          src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=uttamkrshaw&theme=github_dark" width="100%" />
+          src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Amanmandal-M&theme=github_dark" width="100%" />
       </span></a>
   </p>
   
