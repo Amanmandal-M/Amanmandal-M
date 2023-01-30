@@ -1,4 +1,4 @@
-<img src="https://i.pinimg.com/originals/7c/a7/f4/7ca7f4d71e788fb6c9c86e537c9aa423.gif" alt="javascript" width="90%" height="350px" />
+<img src="https://i.pinimg.com/originals/7c/a7/f4/7ca7f4d71e788fb6c9c86e537c9aa423.gif" alt="javascript" width="100%" height="450px" />
       <img align="left" src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="100%" height="10px"
     alt="Git" />
       
