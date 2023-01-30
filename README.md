@@ -1,5 +1,5 @@
 
-<img src="https://i.pinimg.com/originals/08/25/b8/0825b8f46499602ebbe344dc0a8db1dd.gif" alt="javascript" width="100%" height="600px" />
+<img src="https://i.pinimg.com/originals/08/25/b8/0825b8f46499602ebbe344dc0a8db1dd.gif" alt="javascript" width="100%" height="100%" />
       <img align="left" src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="100%" height="10px"
     alt="Git" />
       
