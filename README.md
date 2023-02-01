@@ -90,9 +90,6 @@ product-based company.
       
       <a href="https://Amanmandal-M.github.io" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-18A303?style=for-the-badge&logo=ionic&logoColor=white" align="center" alt="Portfolio"> </a>
-      
-      <a title="Aman Kumar " href="amanmandal644@gmail.com" target="_blank">
-     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" align="center" alt="html5"> </a>
      
      </div>
       
@@ -109,14 +106,11 @@ product-based company.
       <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" align="center" alt="html5">
       <img src = "https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" align="center" alt="css3">
       <img src ="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" align="center" alt="javascript">
-      <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"  align="center" alt="reactjs" />
-      <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white"  align="center" alt="redux" />
       <img src="https://img.shields.io/badge/DOM-007FFF?style=for-the-badge&logo=DOM&logoColor=white"  align="center" alt="material-ui"/>
       <br/>
       <br/>
-        <img src = "https://img.shields.io/badge/chakra ui-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white" align="center" alt="chakra-ui"/>
         <img src="https://img.shields.io/badge/rest api-%23000000.svg?style=for-the-badge&logo=flask&logoColor=white" align="center" alt="restapi"/>
-        
+ 
       </div>
        <br/>
         <div align="center"><h3 align="center">Backend</h3> 
@@ -124,6 +118,7 @@ product-based company.
       <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" align="center" alt="expressjs"/>
       <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" align="center" alt="mongodb"/>
       <img src="https://img.shields.io/badge/mongoose-%2300f.svg?style=for-the-badge&logo=fastify&logoColor=white" align="center" alt="mongoose"/>
+      <img src="https://th.bing.com/th/id/OIP.zt9sC86iS-83W2LfmHIZMwHaHa?w=172&h=180&c=7&r=0&o=5&pid=1.7" align="center" alt="npm"/>
        </div>
         
       
