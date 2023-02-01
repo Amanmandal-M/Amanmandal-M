@@ -91,7 +91,7 @@ product-based company.
       <a href="https://Amanmandal-M.github.io" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-18A303?style=for-the-badge&logo=ionic&logoColor=white" align="center" alt="Portfolio"> </a>
       
-      <a title="Aman Kumar " href="https://mail.google.com/mail" target="_blank">
+      <a title="Aman Kumar " href="https://github.com/mailto:amanmandal644@gmail.com" target="_blank">
      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" align="center" alt="html5"> </a>
      
      </div>
