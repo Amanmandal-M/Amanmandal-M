@@ -7,7 +7,7 @@
    <p align="center"> <img src="https://komarev.com/ghpvc/?username=Amanmandal-M&label=Profile%20views&color=9130c2&style=flat" alt="Error" /> </p>
       
    <h3 align="center">An analytical and detail-oriented aspiring
-Full Stack Web Developer. Capable of
+Backend Developer. Capable of
 writing production-ready code using
 NodeJs. Passionate about coding
 and intensely interested in working in a
