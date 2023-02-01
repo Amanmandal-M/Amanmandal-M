@@ -118,7 +118,7 @@ product-based company.
       <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" align="center" alt="expressjs"/>
       <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" align="center" alt="mongodb"/>
       <img src="https://img.shields.io/badge/mongoose-%2300f.svg?style=for-the-badge&logo=fastify&logoColor=white" align="center" alt="mongoose"/>
-      <img src="https://th.bing.com/th/id/OIP.B6PG8G1GUtbnEkFWUJCXrAHaEK?w=302&h=180&c=7&r=0&o=5&pid=1.7" align="center" alt="npm"/>
+      <img src="https://th.bing.com/th/id/OIP.B6PG8G1GUtbnEkFWUJCXrAHaEK?w=302&h=180&c=7&r=0&o=5&pid=1.7" align="center",width="50px",height="50px" alt="npm"/>
        </div>
         
       
