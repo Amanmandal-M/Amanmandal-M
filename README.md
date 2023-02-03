@@ -1,4 +1,4 @@
-<img src="./aman.gif" alt="javascript" width="100%" height="480px" />
+<img src="./aman.gif" alt="javascript" width="100%" height="480px"/>
       <img align="left" src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="100%" height="10px"
     alt="Git" />
      
