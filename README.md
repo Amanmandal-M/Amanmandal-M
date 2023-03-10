@@ -1,7 +1,8 @@
-<img src="./aman.gif" alt="javascript" width="100%" height="480px"/>
+<img src="https://ardas-it.com/uploads/images/blogs/giph.gif" alt="javascript" width="98%" height="300px"/>
       <img align="left" src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="100%" height="10px"
     alt="Git" />
      
+    <br>
       
    <p align="center"> <img src="https://komarev.com/ghpvc/?username=Amanmandal-M&label=Profile%20views&color=9130c2&style=flat" alt="Error" /> </p>
       
@@ -28,7 +29,8 @@ product-based company.
   <p align="">
 
   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Amanmandal-M&theme=github-dark&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
-  <br /><br />
+  <br />
+  <br />
   </p>
       
  
