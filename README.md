@@ -3,7 +3,8 @@
     alt="Git" />
     <br>
 <p align="center"> 
-  Visitor count<br>
+  Visitor count
+      <br>
   <img src="https://profile-counter.glitch.me/Amanmandal-M/count.svg" />
 </p>
     </p>
