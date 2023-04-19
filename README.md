@@ -71,7 +71,7 @@ product-based company.
       
       - 💻 Know more about me <a href="https://amanmandal-m.github.io/" target="_blank"  >Portfolio</a>
       
-      - 💬 Ask me about *HTML, CSS, JavaScript, NodeJs, ExpressJS, MongoDB & DSA*
+      - 💬 Ask me about *HTML, CSS, JavaScript, NodeJs, ExpressJS, MongoDB & MySQL*
       
       - 📫 How to reach me **amanmandal644@gmail.com**
       
