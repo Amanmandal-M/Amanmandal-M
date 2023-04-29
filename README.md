@@ -43,7 +43,7 @@ product-based company.
           alt="ovi" width="45%" />
           <img align="right"
           src="https://github-readme-stats.vercel.app/api?username=Amanmandal-M&show_icons=true&locale=en&theme=github_dark&hide_border=true"
-          alt="ovi" width="45%"  />
+          alt="ovi" width="45%" />
       </span></a>
   </p>
 <br />
@@ -69,7 +69,7 @@ product-based company.
       
       - 📄 Check out my <a href="https://drive.google.com/file/d/1lyYfuQk3gqFDxPVYotKnOvk06lADgI8h/view?usp=share_link" target="_blank" >Resume</a>
       
-      - 💻 Know more about me <a href="https://amanmandal-m.github.io/" target="_blank"  >Portfolio</a>
+      - 💻 Know more about me <a href="https://amanmandal-m.github.io/" target="_blank">Portfolio</a>
       
       - 💬 Ask me about *HTML, CSS, JavaScript, NodeJs, ExpressJS, MongoDB & MySQL*
       
