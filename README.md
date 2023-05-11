@@ -3,7 +3,7 @@
     alt="Git" />
     <br>
 <p align="center"> Visitors count </p>
-<img src="https://profile-counter.glitch.me/Amanmandal-M/count.svg" />
+<p align="center"><img src="https://profile-counter.glitch.me/Amanmandal-M/count.svg" /></p>
     </p>
       
    <h3 align="center">An analytical and detail-oriented aspiring
