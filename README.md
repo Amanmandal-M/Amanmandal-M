@@ -2,12 +2,8 @@
       <img align="left" src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="100%" height="10px"
     alt="Git" />
     <br>
-<p align="center"> 
-  Visitors count
-      <br> 
-           
-  <img src="https://profile-counter.glitch.me/Amanmandal-M/count.svg" />
-</p>
+<p align="center"> Visitors count </p>
+<img src="https://profile-counter.glitch.me/Amanmandal-M/count.svg" />
     </p>
       
    <h3 align="center">An analytical and detail-oriented aspiring
