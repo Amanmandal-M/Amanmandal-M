@@ -131,19 +131,17 @@ product-based company.
   <p align="center">
     <a href="https://github.com/Amanmandal-M"><span>
         <img align="center"
-          src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Amanmandal-M&theme=github_dark"                       width="90%"/>
+          src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Amanmandal-M&theme=github_dark" width="90%"/>
       </span></a>
   </p>
   <br>
   <img align="left" src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="100%" height="10px" alt="Git" />
   <br>
   <p align="center">
+    <img src="https://github.com/Amanmandal-M/Amanmandal-M/blob/main/github-contribution-grid-snake.svg" width="90%" alt="error" />
+  </p>
+  <br>
+  <p align="center">
   <img  src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" width="90%" alt="">
   </p>
-  
-<div>
-      
-## Snake eating game
-   ![Snake animation](https://github.com/Amanmandal-M/Amanmandal-M/blob/main/github-contribution-grid-snake.svg)
-      
-</div>
+
