@@ -63,13 +63,13 @@ product-based company.
       
    - 🌱 I’m currently learning at Masai
       
-      - 📄 Check out my <a href="https://drive.google.com/file/d/1lyYfuQk3gqFDxPVYotKnOvk06lADgI8h/view?usp=share_link" target="_blank" >Resume</a>
+   - 📄 Check out my <a href="https://drive.google.com/file/d/1lyYfuQk3gqFDxPVYotKnOvk06lADgI8h/view?usp=share_link" target="_blank" >Resume</a>
       
-      - 💻 Know more about me <a href="https://amanmandal-m.github.io/" target="_blank">Portfolio</a>
+   - 💻 Know more about me <a href="https://amanmandal-m.github.io/" target="_blank">Portfolio</a>
       
-      - 💬 Ask me about *HTML, CSS, JavaScript, NodeJs, ExpressJS, MongoDB & MySQL*
+   - 💬 Ask me about *HTML, CSS, JavaScript, NodeJs, ExpressJS, MongoDB & MySQL*
       
-      - 📫 How to reach me **amanmandal644@gmail.com**
+   - 📫 How to reach me **amanmandal644@gmail.com**
       
       
       
