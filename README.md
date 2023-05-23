@@ -21,15 +21,15 @@
 </p>
 
 <br />
-<br />
 
 <p align="center">
   <a href="https://github.com/Amanmandal-M">
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Amanmandal-M&show_icons=true&locale=en&layout=compact&theme=github_dark&hide_border=true" alt="ovi" width="43%" />
-    <img align="right" src="https://github-readme-stats.vercel.app/api?username=Amanmandal-M&show_icons=true&locale=en&theme=github_dark&hide_border=true" alt="ovi" width="43%" />
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amanmandal-M&show_icons=true&locale=en&layout=donut&theme=github_dark&hide_border=true" alt="ovi" width="40%" />
+    <img align="right" src="https://github-readme-stats.vercel.app/api?username=Amanmandal-M&show_icons=true&locale=en&theme=github_dark&hide_border=true" alt="ovi" width="50%" />
   </a>
 </p>
 
+<br />
 <br />
 <br />
 <br />
