@@ -41,7 +41,8 @@
 <br />
 <br />
 
-## 🙋‍♂️ About Me
+<details>
+<summary><h2>🙋‍♂️ About Me</h2></summary>
 
 - 🔭 I'm a dedicated Full Stack Web Developer, currently pursuing my studies at Masai.
 
@@ -54,11 +55,12 @@
 - 💬 I have expertise in HTML, CSS, JavaScript, Node.js, Express.js, MongoDB, and MySQL. Feel free to ask me.
 
 - 📫 You can reach me at amanmandal644@gmail.com. I'm always open to new opportunities and collaborations.
+</details>
 
 <br />
-<br />
 
-<h2 align="center">📱 Connect with me</h2>
+<details>
+<summary><h2 align="center">📱 Connect with me</h2></summary>
 
 <br />
 
@@ -84,12 +86,12 @@
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" align="center" alt="Portfolio" /> 
   </a> 
 </div>
+</details>  
 
 <br />
-<br />
-<br />
 
-<h2 align="center">🚀 Languages and Tools:</h2>
+<details>
+<summary><h2 align="center">🚀 Languages and Tools:</h2></summary>
 
 <br />
 
@@ -130,6 +132,7 @@
   <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white" align="center" alt="vscode" /> &nbsp;
   <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" align="center" alt="slack" /> &nbsp;
 </div>
+</details>
 
 <br />
 
@@ -137,7 +140,6 @@
   <img align="left" src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="100%" height="10px" alt="Git" />
 </div>
 
-<br />
 <br />
 <br />
 
