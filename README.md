@@ -113,6 +113,7 @@
     <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" align="center" alt="expressjs" /> &nbsp;
     <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" align="center" alt="mongodb" /> &nbsp;
     <img src="https://img.shields.io/badge/mongoose-%2300f.svg?style=for-the-badge&logo=fastify&logoColor=white" align="center" alt="mongoose" /> &nbsp;
+    <img src="https://img.shields.io/badge/AWS-FF3E00?style=for-the-badge&logo=amazon%20aws&logoColor=white" align="center" alt="error" /> &nbsp;
   </div>
 </div>
 
