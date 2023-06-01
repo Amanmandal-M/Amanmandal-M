@@ -16,31 +16,6 @@
 
 <br />
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Amanmandal-M&theme=github-dark&hide_border=true&date_format=j%20M%5B%20Y%5D" width=60% alt="GitHub Error" />
-</p>
-
-<br />
-
-<p align="center">
-  <a href="https://github.com/Amanmandal-M">
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amanmandal-M&show_icons=true&locale=en&layout=donut&theme=github_dark&hide_border=true" alt="ovi" width="40%" />
-    <img align="right" src="https://github-readme-stats.vercel.app/api?username=Amanmandal-M&show_icons=true&locale=en&theme=github_dark&hide_border=true" alt="ovi" width="50%" />
-  </a>
-</p>
-
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-
 <details>
 <summary><h2>🙋‍♂️ About Me</h2></summary>
 
@@ -136,32 +111,58 @@
 </details>
 
 <br />
+<br />
+<br />
+<br />
+<br />
 
-<div>
-  <img align="left" src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="100%" height="10px" alt="Git" />
-</div>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Amanmandal-M&theme=github-dark&hide_border=true&date_format=j%20M%5B%20Y%5D" width=60% alt="GitHub Error" />
+</p>
 
 <br />
 <br />
 
 <p align="center">
   <a href="https://github.com/Amanmandal-M">
-    <span>
-      <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Amanmandal-M&theme=github_dark" width="90%" />
-    </span>
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amanmandal-M&show_icons=true&locale=en&layout=donut&theme=github_dark&hide_border=true" alt="ovi" width="40%" />
+    <img align="right" src="https://github-readme-stats.vercel.app/api?username=Amanmandal-M&show_icons=true&locale=en&theme=github_dark&hide_border=true" alt="ovi" width="50%" />
   </a>
 </p>
 
 <br />
+<br />                                                                                                                                             
+
+<img align="left" src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="100%" height="10px" alt="Git" />                                                                  
+
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+
+<p align="center">
+  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Amanmandal-M&theme=github_dark" width="90%"/>
+</p>  
+
+<br />
+<br />
 
 <img align="left" src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="100%" height="10px" alt="Git" />
 
+<br />
 <br />
 
 <p align="center">
   <img src="https://github.com/Amanmandal-M/Amanmandal-M/blob/main/github-contribution-grid-snake.svg" width="90%" alt="error" />
 </p>
 
+<br />
 <br />
 
 <p align="center">
