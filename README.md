@@ -123,7 +123,10 @@
 <br />
 <br />
 
-<p align="center">
+<details>
+  <summary><h2 align="center">🚀 GitHub Stats</h2></summary>
+  
+  <p align="center">
   <a href="https://github.com/Amanmandal-M">
     <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amanmandal-M&show_icons=true&locale=en&layout=donut&theme=github_dark&hide_border=true" alt="ovi" width="40%" />
     <img align="right" src="https://github-readme-stats.vercel.app/api?username=Amanmandal-M&show_icons=true&locale=en&theme=github_dark&hide_border=true" alt="ovi" width="50%" />
@@ -168,3 +171,4 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" width="90%" alt="">
 </p>
+</details>
