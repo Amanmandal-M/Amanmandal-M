@@ -162,7 +162,7 @@
 <br />
 
 <p align="center">
-  <img src="https://github.com/Amanmandal-M/Amanmandal-M/blob/main/github-contribution-grid-snake.svg" width="90%" alt="error" />
+  <img src="https://github.com/omololevy/omololevy/blob/output/github-contribution-grid-snake.svg" width="90%" alt="error" />
 </p>
 
 <br />
