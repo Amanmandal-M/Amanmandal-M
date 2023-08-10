@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./motivate.png" alt="javascript" width="100%" height="350px" />
+  <img src="./motivate.png" alt="javascript" />
 </p>
 
 <p align="center">
