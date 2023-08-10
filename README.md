@@ -94,14 +94,16 @@
     <img src="https://img.shields.io/badge/AWS-FF3E00?style=for-the-badge&logo=amazon%20aws&logoColor=white" align="center" alt="error" /> &nbsp;
     <br />
     <br />
-    <img src="https://img.shields.io/badge/REST-%23000000.svg?style=for-the-badge&logo=rest&logoColor=white" align="center" alt="REST" />
-    <img src="https://img.shields.io/badge/REST%20API-%23000000.svg?style=for-the-badge&logo=api&logoColor=white" align="center" alt="REST API" />
-    <img src="https://img.shields.io/badge/RESTful%20API-%23000000.svg?style=for-the-badge&logo=api&logoColor=white" align="center" alt="RESTful API" />
+    <img src="https://img.shields.io/badge/REST-%23000000.svg?style=for-the-badge&logo=rest&logoColor=white" align="center" alt="REST" /> &nbsp;
+    <img src="https://img.shields.io/badge/REST%20API-%23000000.svg?style=for-the-badge&logo=api&logoColor=white" align="center" alt="REST API" /> &nbsp;
+    <img src="https://img.shields.io/badge/RESTful%20API-%23000000.svg?style=for-the-badge&logo=api&logoColor=white" align="center" alt="RESTful API" /> &nbsp;
     <br />
     <br />
     <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" align="center" alt="mongodb" /> &nbsp;
     <img src="https://img.shields.io/badge/MySQL-007ACC?style=for-the-badge&logo=mysql&logoColor=white" align="center" alt="sql" /> &nbsp;
-
+    <br />
+    <br />
+    <img src="https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white" align="center" alt="npm" /> &nbsp;
   </div>
 </div>
 
@@ -111,26 +113,27 @@
   <h3 align="center">Tools</h3>
     <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white" align="center" alt="vscode" /> &nbsp;
   <img src="https://img.shields.io/badge/Replit-%230769AD.svg?style=for-the-badge&logo=replit&logoColor=white" align="center" alt="Replit" /> &nbsp;
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" align="center" alt="github" /> &nbsp;
   <img src="https://img.shields.io/badge/CodePen-%23000000.svg?style=for-the-badge&logo=codepen&logoColor=white" align="center" alt="CodePen" /> &nbsp;
   <img src="https://img.shields.io/badge/CodeSandbox-%23000000.svg?style=for-the-badge&logo=codesandbox&logoColor=white" align="center" alt="CodeSandbox" /> &nbsp;
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" align="center" alt="github" /> &nbsp;
+  <br />
+  <br />
   <img src="https://img.shields.io/badge/Railway-FF3E00?style=for-the-badge&logo=railway&logoColor=white" align="center" alt="Railway" /> &nbsp;
-  <br />
-  <br />
-  <img src="https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white" align="center" alt="git" /> &nbsp;
-  <img src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7" align="center" alt="git" /> &nbsp;
   <img src="https://img.shields.io/badge/Render-%23000000.svg?style=for-the-badge&logo=render&logoColor=white" align="center" alt="Render" /> &nbsp;
-  <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" align="center" alt="git" /> &nbsp;
+  <img src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7" align="center" alt="netlify" /> &nbsp;
+  <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" align="center" alt="vercel" /> &nbsp;
+  <br />
+  <br />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" align="center" alt="postman" /> &nbsp;
+  <img src="https://img.shields.io/badge/Thunder%20Client-%23000000.svg?style=for-the-badge&logo=thunderclient&logoColor=white" align="center" alt="Thunder Client" />  &nbsp;
+  <img src="https://img.shields.io/badge/REST%20Client-%23000000.svg?style=for-the-badge&logo=rest-client&logoColor=white" align="center" alt="REST Client" />  &nbsp;
   <br />
   <br />
-  <img src="https://img.shields.io/badge/Thunder%20Client-%23000000.svg?style=for-the-badge&logo=thunderclient&logoColor=white" align="center" alt="Thunder Client" />
-  <img src="https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white" align="center" alt="npm" /> &nbsp;
   <img src="https://img.shields.io/badge/Generative%20AI-%23000000.svg?style=for-the-badge&logo=ai&logoColor=white" align="center" alt="Generative AI" /> &nbsp;
-  <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" align="center" alt="slack" /> &nbsp;
-  <br />
-  <br />
   <img src="https://img.shields.io/badge/OpenAI-%23000000.svg?style=for-the-badge&logo=openai&logoColor=white" align="center" alt="OpenAI" /> &nbsp;
+  <br />
+  <br />
+  <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" align="center" alt="slack" /> &nbsp;
 </div>
 </details>
 
