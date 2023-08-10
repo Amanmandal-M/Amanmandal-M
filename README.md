@@ -66,7 +66,7 @@
 <br />
 
 <details>
-<summary><h2 align="center">🚀 Languages and Tools:</h2></summary>
+<summary><h2 align="center">🚀 Tech Stacks and Tools:</h2></summary>
 
 <br />
 
@@ -76,6 +76,8 @@
     <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" align="center" alt="html5" /> &nbsp;
     <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" align="center" alt="css3" /> &nbsp;
     <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" align="center" alt="javascript" /> &nbsp;
+    <img src="https://img.shields.io/badge/Angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white" align="center" alt="Angular" /> &nbsp;
+    <img src="https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=white" align="center" alt="React" /> &nbsp;
     <img src="https://img.shields.io/badge/DOM-007FFF?style=for-the-badge&logo=DOM&logoColor=white" align="center" alt="material-ui" /> &nbsp;
     <img src="https://img.shields.io/badge/rest api-%23000000.svg?style=for-the-badge&logo=flask&logoColor=white" align="center" alt="restapi" /> &nbsp;
   </div>
@@ -89,6 +91,7 @@
     <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" align="center" alt="mongodb" /> &nbsp;
     <img src="https://img.shields.io/badge/MySQL-007ACC?style=for-the-badge&logo=mysql&logoColor=white" align="center" alt="sql" /> &nbsp;
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" align="center" alt="python" /> &nbsp;
+    <img src="https://img.shields.io/badge/Flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" align="center" alt="Flask" />  &nbsp;
     <img src="https://img.shields.io/badge/AWS-FF3E00?style=for-the-badge&logo=amazon%20aws&logoColor=white" align="center" alt="error" /> &nbsp;
   </div>
 </div>
@@ -97,17 +100,26 @@
 
 <div align="center">
   <h3 align="center">Tools</h3>
+    <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white" align="center" alt="vscode" /> &nbsp;
+  <img src="https://img.shields.io/badge/Replit-%230769AD.svg?style=for-the-badge&logo=replit&logoColor=white" align="center" alt="Replit" /> &nbsp;
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" align="center" alt="github" /> &nbsp;
+  <img src="https://img.shields.io/badge/CodePen-%23000000.svg?style=for-the-badge&logo=codepen&logoColor=white" align="center" alt="CodePen" /> &nbsp;
+  <img src="https://img.shields.io/badge/CodeSandbox-%23000000.svg?style=for-the-badge&logo=codesandbox&logoColor=white" align="center" alt="CodeSandbox" /> &nbsp;
   <img src="https://img.shields.io/badge/Railway-FF3E00?style=for-the-badge&logo=railway&logoColor=white" align="center" alt="Railway" /> &nbsp;
   <img src="https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white" align="center" alt="git" /> &nbsp;
+  <br />
+  <br />
   <img src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7" align="center" alt="git" /> &nbsp;
-  <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=whit" align="center" alt="git" /> &nbsp;
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" align="center" alt="github" /> &nbsp;
+  <img src="https://img.shields.io/badge/Render-%23000000.svg?style=for-the-badge&logo=render&logoColor=white" align="center" alt="Render" /> &nbsp;
+  <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" align="center" alt="git" /> &nbsp;
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" align="center" alt="postman" /> &nbsp;
+  <img src="https://img.shields.io/badge/Thunder%20Client-%23000000.svg?style=for-the-badge&logo=thunderclient&logoColor=white" align="center" alt="Thunder Client" />
   <img src="https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white" align="center" alt="npm" /> &nbsp;
   <br />
   <br />
-  <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white" align="center" alt="vscode" /> &nbsp;
-  <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" align="center" alt="slack" /> &nbsp;
+    <img src="https://img.shields.io/badge/Generative%20AI-%23000000.svg?style=for-the-badge&logo=ai&logoColor=white" align="center" alt="Generative AI" /> &nbsp;
+    <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" align="center" alt="slack" /> &nbsp;
+  <img src="https://img.shields.io/badge/OpenAI-%23000000.svg?style=for-the-badge&logo=openai&logoColor=white" align="center" alt="OpenAI" /> &nbsp;
 </div>
 </details>
 
