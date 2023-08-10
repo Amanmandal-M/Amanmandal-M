@@ -76,10 +76,11 @@
     <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" align="center" alt="html5" /> &nbsp;
     <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" align="center" alt="css3" /> &nbsp;
     <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" align="center" alt="javascript" /> &nbsp;
+    <img src="https://img.shields.io/badge/DOM-007FFF?style=for-the-badge&logo=DOM&logoColor=white" align="center" alt="material-ui" /> &nbsp;
+    <br />
+    <br />
     <img src="https://img.shields.io/badge/Angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white" align="center" alt="Angular" /> &nbsp;
     <img src="https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=white" align="center" alt="React" /> &nbsp;
-    <img src="https://img.shields.io/badge/DOM-007FFF?style=for-the-badge&logo=DOM&logoColor=white" align="center" alt="material-ui" /> &nbsp;
-    <img src="https://img.shields.io/badge/rest api-%23000000.svg?style=for-the-badge&logo=flask&logoColor=white" align="center" alt="restapi" /> &nbsp;
   </div>
 
   <br />
@@ -88,11 +89,19 @@
     <h3 align="center">Backend</h3> 
     <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" align="center" alt="nodejs" /> &nbsp;
     <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" align="center" alt="expressjs" /> &nbsp;
-    <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" align="center" alt="mongodb" /> &nbsp;
-    <img src="https://img.shields.io/badge/MySQL-007ACC?style=for-the-badge&logo=mysql&logoColor=white" align="center" alt="sql" /> &nbsp;
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" align="center" alt="python" /> &nbsp;
     <img src="https://img.shields.io/badge/Flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" align="center" alt="Flask" />  &nbsp;
     <img src="https://img.shields.io/badge/AWS-FF3E00?style=for-the-badge&logo=amazon%20aws&logoColor=white" align="center" alt="error" /> &nbsp;
+    <br />
+    <br />
+    <img src="https://img.shields.io/badge/REST-%23000000.svg?style=for-the-badge&logo=rest&logoColor=white" align="center" alt="REST" />
+    <img src="https://img.shields.io/badge/REST%20API-%23000000.svg?style=for-the-badge&logo=api&logoColor=white" align="center" alt="REST API" />
+    <img src="https://img.shields.io/badge/RESTful%20API-%23000000.svg?style=for-the-badge&logo=api&logoColor=white" align="center" alt="RESTful API" />
+    <br />
+    <br />
+    <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" align="center" alt="mongodb" /> &nbsp;
+    <img src="https://img.shields.io/badge/MySQL-007ACC?style=for-the-badge&logo=mysql&logoColor=white" align="center" alt="sql" /> &nbsp;
+
   </div>
 </div>
 
