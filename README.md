@@ -106,8 +106,9 @@
   <img src="https://img.shields.io/badge/CodePen-%23000000.svg?style=for-the-badge&logo=codepen&logoColor=white" align="center" alt="CodePen" /> &nbsp;
   <img src="https://img.shields.io/badge/CodeSandbox-%23000000.svg?style=for-the-badge&logo=codesandbox&logoColor=white" align="center" alt="CodeSandbox" /> &nbsp;
   <img src="https://img.shields.io/badge/Railway-FF3E00?style=for-the-badge&logo=railway&logoColor=white" align="center" alt="Railway" /> &nbsp;
-  <img src="https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white" align="center" alt="git" /> &nbsp;
   <br />
+  <br />
+  <img src="https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white" align="center" alt="git" /> &nbsp;
   <br />
   <br />
   <img src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7" align="center" alt="git" /> &nbsp;
