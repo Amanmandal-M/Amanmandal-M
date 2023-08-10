@@ -89,9 +89,9 @@
     <h3 align="center">Backend</h3> 
     <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" align="center" alt="nodejs" /> &nbsp;
     <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" align="center" alt="expressjs" /> &nbsp;
+    <img src="https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white" align="center" alt="npm" /> &nbsp;
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" align="center" alt="python" /> &nbsp;
     <img src="https://img.shields.io/badge/Flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" align="center" alt="Flask" />  &nbsp;
-    <img src="https://img.shields.io/badge/AWS-FF3E00?style=for-the-badge&logo=amazon%20aws&logoColor=white" align="center" alt="error" /> &nbsp;
     <br />
     <br />
     <img src="https://img.shields.io/badge/REST-%23000000.svg?style=for-the-badge&logo=rest&logoColor=white" align="center" alt="REST" /> &nbsp;
@@ -103,7 +103,7 @@
     <img src="https://img.shields.io/badge/MySQL-007ACC?style=for-the-badge&logo=mysql&logoColor=white" align="center" alt="sql" /> &nbsp;
     <br />
     <br />
-    <img src="https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white" align="center" alt="npm" /> &nbsp;
+    <img src="https://img.shields.io/badge/AWS-FF3E00?style=for-the-badge&logo=amazon%20aws&logoColor=white" align="center" alt="AWS" /> &nbsp;
   </div>
 </div>
 
