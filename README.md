@@ -109,18 +109,18 @@
   <br />
   <br />
   <img src="https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white" align="center" alt="git" /> &nbsp;
-  <br />
-  <br />
   <img src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7" align="center" alt="git" /> &nbsp;
   <img src="https://img.shields.io/badge/Render-%23000000.svg?style=for-the-badge&logo=render&logoColor=white" align="center" alt="Render" /> &nbsp;
   <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" align="center" alt="git" /> &nbsp;
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" align="center" alt="postman" /> &nbsp;
+  <br />
+  <br />
   <img src="https://img.shields.io/badge/Thunder%20Client-%23000000.svg?style=for-the-badge&logo=thunderclient&logoColor=white" align="center" alt="Thunder Client" />
   <img src="https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white" align="center" alt="npm" /> &nbsp;
+  <img src="https://img.shields.io/badge/Generative%20AI-%23000000.svg?style=for-the-badge&logo=ai&logoColor=white" align="center" alt="Generative AI" /> &nbsp;
+  <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" align="center" alt="slack" /> &nbsp;
   <br />
   <br />
-    <img src="https://img.shields.io/badge/Generative%20AI-%23000000.svg?style=for-the-badge&logo=ai&logoColor=white" align="center" alt="Generative AI" /> &nbsp;
-    <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" align="center" alt="slack" /> &nbsp;
   <img src="https://img.shields.io/badge/OpenAI-%23000000.svg?style=for-the-badge&logo=openai&logoColor=white" align="center" alt="OpenAI" /> &nbsp;
 </div>
 </details>
