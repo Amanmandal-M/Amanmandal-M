@@ -97,7 +97,6 @@
     <img src="https://img.shields.io/badge/socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white" align="center" alt="Socket.io" /> &nbsp;
   </div>
     <br />
-    <br />
     <img src="https://img.shields.io/badge/REST-%23000000.svg?style=for-the-badge&logo=rest&logoColor=white" align="center" alt="REST" /> &nbsp;
     <img src="https://img.shields.io/badge/REST%20API-%23000000.svg?style=for-the-badge&logo=api&logoColor=white" align="center" alt="REST API" /> &nbsp;
     <img src="https://img.shields.io/badge/RESTful%20API-%23000000.svg?style=for-the-badge&logo=api&logoColor=white" align="center" alt="RESTful API" /> &nbsp;
