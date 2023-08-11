@@ -19,7 +19,7 @@
 <details>
 <summary><h2>🙋‍♂️ About Me</h2></summary>
 
-- 🔭 I'm a dedicated Full Stack Web Developer, currently pursuing my studies at Masai.
+- 🔭 I'm a dedicated Backend Developer (NodeJS, Python).
 
 - 🌱 I'm constantly learning and expanding my knowledge in web development.
 
@@ -27,9 +27,9 @@
 
 - 💻 Explore my [Portfolio](https://amanmandal-m.github.io/) to see some of my past projects.
 
-- 💬 I have expertise in HTML, CSS, JavaScript, Node.js, Express.js, MongoDB, and MySQL. Feel free to ask me.
+- 💬 Ask me about Node, MongoDB, Javascript.
 
-- 📫 You can reach me at amanmandal644@gmail.com. I'm always open to new opportunities and collaborations.
+- 📫 You can reach me at [Gmail](amanmandal644@gmail.com). I'm always open to new opportunities and collaborations.
 </details>
 
 <br />
